@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sungshopbot",
+  "private_key_id": "c8e29dcb33ccd6faebef68132d1fdcebfaa5510f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDddBABFf6y5Kv/\nWQVYSaNmK13V+aJ0k1HPHpL4VzoS16cmvuNjv9w2PZZi8stw80Au6/Iv6VWHjGNB\n67WfQH8LQQKkSxln5RX8e1JRnUOaeDV3t+YifsUZUzPxEOs5OGfGOGbH4u0w8EMf\n/nCiPB/+Zawad+Bb5/OQ10ifZm42RUAKUUaf/gPtNaul2O5EpsJOEbLMCci2z8Vr\n9pBKkDzRHcppW3yAG0q+orzRJYD9egsG/EKMJ5RciCDHd7+K8J0eykO+v+HwpKgX\nBMQHiPQ2KN/y8lNq3cNOqKV1zExIMGSzm8MXy1PTzdm0JGrYw78PNXu3yGyllKJv\nD1O6h9kVAgMBAAECggEABAXKJblypcYnPDeMv8JxlU5YLQMgemqIGxRoRzd33H7Z\nyoeQ9amIcAttzf3H9v27cwGn1Esmqzc0nf/WX2FdW/ZWcMPsGThl/KkbWz0Tnksn\nER6mI/sttTEPFUyP1On7eVFK9h1Hx1hupvxmH43CCkrer+bxANSPs8x5rg2/FpSz\ntIjWAyvhtxyk1utvS6HoL+UsMM2vxXlTzxEln8b0p34vToerLI6wddgbjshyiCvY\neP0YPJoIt+6Kc89JxBpxtWmgBIdwWmKbugcenQIKvb0uZ4BeMtrGJpZ6jBLZLp1w\nKocRQS8MB7WNrcFRDqVz1iiaicx86ArG5DAjwnpG/QKBgQDxcYIB4jYU/UvDUq/r\nhWl/mtxQUlBLmkDDZQFM0VrmjiATtQq1R4P6TgWlDJ3gWYM2bpShQHZcvpM3oKlH\nm8Jh3AWJszuzH58c6oMV4fPaERN04fLDATOo5F6pMwWclOY/HVdwGflGCuNg7CgP\nEneFgKtwd2QGW981EDgGPOq4QwKBgQDqzgYuvyIUpkCZp2sApAqlkKVdb9bif+M+\ni7BSCNmssOnB97AvO/Gg/HctoMDR8q/TQzQgoLuWenAvZUOfLwDgzBcYAW2q70Xg\nWdDuxPcKR1nZfcMBel2V489Sm/kvq0whGRSmm+4jto0ALEaCw6COGBKadmHS4295\nXKARNEufxwKBgAW7gC6zRD1zVh0pFWwuGrcg4iI2Ehn5a5g4CbPdNJ9MuI4/OiXb\nsNJ8j72/cvAkr+zW60h401aYX75uXhaJKDBSnP8L9lrmYUy6dKpMVxHSXffkdXMT\n0DouUeEKiROSpXTSKYVL2JNFJujiMoFJGvVcfLWK4CEWhVIpNGtRfvEpAoGAWKjW\neMw+6CEmf15R7voB8yY86p0SPJAhlDpWp4Mj/isG+PC3m/48bJcnwRjT9fJ3JYRY\nqIFIk7dDqQHJmM+8uyUVC0Fu0X5rmh0P4TiKN11dtdvgyCwWLkTIwd6XJsK9ijnY\nLFjwgJerggc10KZhd4XrcFuG8IRkUSUCY7ylWX0CgYBRi5sLOGD/tJ9WJcfGrKIf\nIBhcumNxEdTGFwU2XbFk6TBYlMCIiFRSrSL6IZsZTes9w/NwbRIdm8jRkijacNIo\nIhex37cSn6yGkIelNKNDOYn5D9fehgYfeHCSFe4/NldXJt/Kj4ZJ4BLzXMDyFDiV\net/Q7ZYp6U7rxYNFFmpsYA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@sungshopbot.iam.gserviceaccount.com",
+  "client_id": "109148261586242883274",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40sungshopbot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
